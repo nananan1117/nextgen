@@ -1,5 +1,9 @@
 #pragma once
 
-class ProductDescription {
-
+class ProductDescription 
+{
+private:
+	int price;
+	int itemID;
+	char text;
 };
