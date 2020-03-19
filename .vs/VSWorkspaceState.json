@@ -3,8 +3,9 @@
     "",
     "\\WindowsProject1",
     "\\WindowsProject1\\WindowsProject1",
-    "\\WindowsProject1\\WindowsProject1\\business logika"
+    "\\WindowsProject1\\WindowsProject1\\business logika",
+    "\\WindowsProject1\\WindowsProject1\\domain"
   ],
-  "SelectedNode": "\\WindowsProject1\\WindowsProject1\\business logika\\ProductDescription.cpp",
+  "SelectedNode": "\\WindowsProject1\\WindowsProject1\\business logika\\SalesLineItem.h",
   "PreviewInSolutionExplorer": false
 }
